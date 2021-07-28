@@ -1,0 +1,11 @@
+io/ipldashboard/data/BatchConfig.class
+io/ipldashboard/controller/TeamController.class
+io/ipldashboard/Repository/MatchRepository.class
+io/ipldashboard/model/Match.class
+io/ipldashboard/data/MatchInput.class
+io/ipldashboard/Repository/TeamRepository.class
+io/ipldashboard/data/JobCompletionNotificationListener.class
+io/ipldashboard/model/Team.class
+io/ipldashboard/IPLDashboard.class
+io/ipldashboard/data/MatchDataProcessor.class
+io/ipldashboard/data/BatchConfig$1.class
